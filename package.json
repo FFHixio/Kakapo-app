@@ -81,7 +81,7 @@
     "semver": "^5.5.0",
     "shortid": "^2.2.12",
     "whatwg-fetch": "^2.0.4",
-    "ytdl-core": "^0.24.0"
+    "ytdl-core": "^0.29.7"
   },
   "devDependencies": {
     "archiver": "^2.1.1",
