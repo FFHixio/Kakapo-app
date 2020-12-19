@@ -67,7 +67,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-dropzone": "^4.3.0",
-    "react-hot-loader": "^4.3.4",
+    "react-hot-loader": "^4.13.0",
     "react-intl": "^2.4.0",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
