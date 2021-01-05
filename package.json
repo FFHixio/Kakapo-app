@@ -125,7 +125,7 @@
     "lint-staged": "^7.2.0",
     "mini-css-extract-plugin": "^0.4.1",
     "null-loader": "^0.1.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "ora": "^3.0.0",
     "postcss": "^7.0.2",
     "postcss-browser-reporter": "^0.5.0",
